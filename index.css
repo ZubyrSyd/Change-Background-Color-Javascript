@@ -3,7 +3,9 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
+
 .center .btn {
     cursor: pointer;
 }
